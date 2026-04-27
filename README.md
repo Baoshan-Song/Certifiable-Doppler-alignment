@@ -22,7 +22,7 @@ This repository relies on **MatRTKLIB** for GNSS data processing and coordinate 
 ### Installation
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/Certifiable-Doppler-alignment.git](https://github.com/YourUsername/Certifiable-Doppler-alignment.git)
+    git clone [https://github.com/Baoshan-Song/Certifiable-Doppler-alignment.git](https://github.com/Baoshan-Song/Certifiable-Doppler-alignment.git)
     ```
 2.  Download/Clone [MatRTKLIB](https://github.com/taroz/MatRTKLIB) and place it in your workspace.
 3.  Open MATLAB and add both the `Certifiable-Doppler-alignment` and `MatRTKLIB` folders (including all subfolders) to your **MATLAB Path**.
