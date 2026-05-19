@@ -45,9 +45,10 @@ The proposed method formulates the frame alignment problem as a Quadratically Co
 If you find this code or the paper useful for your research, please cite our work:
 
 ```bibtex
-@article{song2025certifiable,
+@article{song2026certifiable,
   title={Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality},
   author={Song, Baoshan and Giamou, Matthew and Yan, Penggao and Xia, Chunxi and Hsu, Li-Ta},
-  journal={arXiv preprint arXiv:2512.20931},
-  year={2025}
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  publisher={IEEE}
 }
